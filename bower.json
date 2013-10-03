@@ -1,0 +1,15 @@
+{
+  "name": "jquery.toggle-html",
+  "version": "0.1.0",
+  "homepage": "https://github.com/emilkaiser/jquery-toggle-html",
+  "authors": [
+    "Emil Kaiser <emilkaiser@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
